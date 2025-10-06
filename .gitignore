@@ -1,0 +1,9 @@
+# REGLA CRÍTICA
+venv_project/
+ 
+# Otras reglas importantes
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+__pycache__/
+*.pyc
